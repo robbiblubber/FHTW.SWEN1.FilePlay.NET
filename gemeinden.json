@@ -1,0 +1,2710 @@
+[
+  {
+    "ID": "01000",
+    "Name": "Wahlkreis Amstetten"
+  },
+  {
+    "ID": "01099",
+    "Name": "Wahlkarten im Wahlkreis Amstetten"
+  },
+  {
+    "ID": "02000",
+    "Name": "Wahlkreis Baden"
+  },
+  {
+    "ID": "02099",
+    "Name": "Wahlkarten im Wahlkreis Baden"
+  },
+  {
+    "ID": "03000",
+    "Name": "Wahlkreis Bruck an der Leitha"
+  },
+  {
+    "ID": "03099",
+    "Name": "Wahlkarten im Wahlkreis Bruck an der Leitha"
+  },
+  {
+    "ID": "04000",
+    "Name": "Wahlkreis G\u00E4nserndorf"
+  },
+  {
+    "ID": "04099",
+    "Name": "Wahlkarten im Wahlkreis G\u00E4nserndorf"
+  },
+  {
+    "ID": "05000",
+    "Name": "Wahlkreis Gm\u00FCnd"
+  },
+  {
+    "ID": "05099",
+    "Name": "Wahlkarten im Wahlkreis Gm\u00FCnd"
+  },
+  {
+    "ID": "06000",
+    "Name": "Wahlkreis Hollabrunn"
+  },
+  {
+    "ID": "06099",
+    "Name": "Wahlkarten im Wahlkreis Hollabrunn"
+  },
+  {
+    "ID": "07000",
+    "Name": "Wahlkreis Horn"
+  },
+  {
+    "ID": "07099",
+    "Name": "Wahlkarten im Wahlkreis Horn"
+  },
+  {
+    "ID": "08000",
+    "Name": "Wahlkreis Korneuburg"
+  },
+  {
+    "ID": "08099",
+    "Name": "Wahlkarten im Wahlkreis Korneuburg"
+  },
+  {
+    "ID": "09000",
+    "Name": "Wahlkreis Krems an der Donau"
+  },
+  {
+    "ID": "09099",
+    "Name": "Wahlkarten im Wahlkreis Krems an der Donau"
+  },
+  {
+    "ID": "10000",
+    "Name": "Wahlkreis Lilienfeld"
+  },
+  {
+    "ID": "10099",
+    "Name": "Wahlkarten im Wahlkreis Lilienfeld"
+  },
+  {
+    "ID": "11000",
+    "Name": "Wahlkreis Melk"
+  },
+  {
+    "ID": "11099",
+    "Name": "Wahlkarten im Wahlkreis Melk"
+  },
+  {
+    "ID": "12000",
+    "Name": "Wahlkreis Mistelbach"
+  },
+  {
+    "ID": "12099",
+    "Name": "Wahlkarten im Wahlkreis Mistelbach"
+  },
+  {
+    "ID": "13000",
+    "Name": "Wahlkreis M\u00F6dling"
+  },
+  {
+    "ID": "13099",
+    "Name": "Wahlkarten im Wahlkreis M\u00F6dling"
+  },
+  {
+    "ID": "14000",
+    "Name": "Wahlkreis Neunkirchen"
+  },
+  {
+    "ID": "14099",
+    "Name": "Wahlkarten im Wahlkreis Neunkirchen"
+  },
+  {
+    "ID": "15000",
+    "Name": "Wahlkreis St. P\u00F6lten"
+  },
+  {
+    "ID": "15099",
+    "Name": "Wahlkarten im Wahlkreis St. P\u00F6lten"
+  },
+  {
+    "ID": "16000",
+    "Name": "Wahlkreis Scheibbs"
+  },
+  {
+    "ID": "16099",
+    "Name": "Wahlkarten im Wahlkreis Scheibbs"
+  },
+  {
+    "ID": "17000",
+    "Name": "Wahlkreis Tulln"
+  },
+  {
+    "ID": "17099",
+    "Name": "Wahlkarten im Wahlkreis Tulln"
+  },
+  {
+    "ID": "18000",
+    "Name": "Wahlkreis Waidhofen an der Thaya"
+  },
+  {
+    "ID": "18099",
+    "Name": "Wahlkarten im Wahlkreis Waidhofen an der Thaya"
+  },
+  {
+    "ID": "19000",
+    "Name": "Wahlkreis Wiener Neustadt"
+  },
+  {
+    "ID": "19099",
+    "Name": "Wahlkarten im Wahlkreis Wiener Neustadt"
+  },
+  {
+    "ID": "20000",
+    "Name": "Wahlkreis Zwettl"
+  },
+  {
+    "ID": "20099",
+    "Name": "Wahlkarten im Wahlkreis Zwettl"
+  },
+  {
+    "ID": "30000",
+    "Name": "Land Nieder\u00F6sterreich"
+  },
+  {
+    "ID": "30099",
+    "Name": "Nicht zuordenbare, ung\u00FCltige Wahlkarten"
+  },
+  {
+    "ID": "30100",
+    "Name": "Bezirk Krems-Stadt"
+  },
+  {
+    "ID": "30101",
+    "Name": "Krems an der Donau"
+  },
+  {
+    "ID": "30199",
+    "Name": "Wahlkarten im Bezirk Krems-Stadt"
+  },
+  {
+    "ID": "30200",
+    "Name": "Bezirk St. P\u00F6lten-Stadt"
+  },
+  {
+    "ID": "30201",
+    "Name": "St. P\u00F6lten"
+  },
+  {
+    "ID": "30299",
+    "Name": "Wahlkarten im Bezirk St. P\u00F6lten-Stadt"
+  },
+  {
+    "ID": "30300",
+    "Name": "Bezirk Waidhofen a.d. Ybbs"
+  },
+  {
+    "ID": "30301",
+    "Name": "Waidhofen an der Ybbs"
+  },
+  {
+    "ID": "30399",
+    "Name": "Wahlkarten im Bezirk Waidhofen a.d. Ybbs"
+  },
+  {
+    "ID": "30400",
+    "Name": "Bezirk Wr. Neustadt-Stadt"
+  },
+  {
+    "ID": "30401",
+    "Name": "Wiener Neustadt"
+  },
+  {
+    "ID": "30499",
+    "Name": "Wahlkarten im Bezirk Wr. Neustadt-Stadt"
+  },
+  {
+    "ID": "30500",
+    "Name": "Bezirk Amstetten"
+  },
+  {
+    "ID": "30501",
+    "Name": "Allhartsberg"
+  },
+  {
+    "ID": "30502",
+    "Name": "Amstetten"
+  },
+  {
+    "ID": "30503",
+    "Name": "Ardagger"
+  },
+  {
+    "ID": "30504",
+    "Name": "Aschbach-Markt"
+  },
+  {
+    "ID": "30506",
+    "Name": "Behamberg"
+  },
+  {
+    "ID": "30507",
+    "Name": "Biberbach"
+  },
+  {
+    "ID": "30508",
+    "Name": "Ennsdorf"
+  },
+  {
+    "ID": "30509",
+    "Name": "Ernsthofen"
+  },
+  {
+    "ID": "30510",
+    "Name": "Ertl"
+  },
+  {
+    "ID": "30511",
+    "Name": "Euratsfeld"
+  },
+  {
+    "ID": "30512",
+    "Name": "Ferschnitz"
+  },
+  {
+    "ID": "30514",
+    "Name": "Haag"
+  },
+  {
+    "ID": "30515",
+    "Name": "Haidershofen"
+  },
+  {
+    "ID": "30516",
+    "Name": "Hollenstein an der Ybbs"
+  },
+  {
+    "ID": "30517",
+    "Name": "Kematen an der Ybbs"
+  },
+  {
+    "ID": "30520",
+    "Name": "Neuhofen an der Ybbs"
+  },
+  {
+    "ID": "30521",
+    "Name": "Neustadtl an der Donau"
+  },
+  {
+    "ID": "30522",
+    "Name": "Oed-Oehling"
+  },
+  {
+    "ID": "30524",
+    "Name": "Opponitz"
+  },
+  {
+    "ID": "30526",
+    "Name": "St. Georgen am Reith"
+  },
+  {
+    "ID": "30527",
+    "Name": "St. Georgen am Ybbsfelde"
+  },
+  {
+    "ID": "30529",
+    "Name": "St. Pantaleon-Erla"
+  },
+  {
+    "ID": "30530",
+    "Name": "St. Peter in der Au"
+  },
+  {
+    "ID": "30531",
+    "Name": "St. Valentin"
+  },
+  {
+    "ID": "30532",
+    "Name": "Seitenstetten"
+  },
+  {
+    "ID": "30533",
+    "Name": "Sonntagberg"
+  },
+  {
+    "ID": "30534",
+    "Name": "Strengberg"
+  },
+  {
+    "ID": "30536",
+    "Name": "Viehdorf"
+  },
+  {
+    "ID": "30538",
+    "Name": "Wallsee-Sindelburg"
+  },
+  {
+    "ID": "30539",
+    "Name": "Weistrach"
+  },
+  {
+    "ID": "30541",
+    "Name": "Winklarn"
+  },
+  {
+    "ID": "30542",
+    "Name": "Wolfsbach"
+  },
+  {
+    "ID": "30543",
+    "Name": "Ybbsitz"
+  },
+  {
+    "ID": "30544",
+    "Name": "Zeillern"
+  },
+  {
+    "ID": "30599",
+    "Name": "Wahlkarten im Bezirk Amstetten"
+  },
+  {
+    "ID": "30600",
+    "Name": "Bezirk Baden"
+  },
+  {
+    "ID": "30601",
+    "Name": "Alland"
+  },
+  {
+    "ID": "30602",
+    "Name": "Altenmarkt an der Triesting"
+  },
+  {
+    "ID": "30603",
+    "Name": "Bad V\u00F6slau"
+  },
+  {
+    "ID": "30604",
+    "Name": "Baden"
+  },
+  {
+    "ID": "30605",
+    "Name": "Berndorf"
+  },
+  {
+    "ID": "30607",
+    "Name": "Ebreichsdorf"
+  },
+  {
+    "ID": "30608",
+    "Name": "Enzesfeld-Lindabrunn"
+  },
+  {
+    "ID": "30609",
+    "Name": "Furth an der Triesting"
+  },
+  {
+    "ID": "30612",
+    "Name": "G\u00FCnselsdorf"
+  },
+  {
+    "ID": "30613",
+    "Name": "Heiligenkreuz"
+  },
+  {
+    "ID": "30614",
+    "Name": "Hernstein"
+  },
+  {
+    "ID": "30615",
+    "Name": "Hirtenberg"
+  },
+  {
+    "ID": "30616",
+    "Name": "Klausen-Leopoldsdorf"
+  },
+  {
+    "ID": "30618",
+    "Name": "Kottingbrunn"
+  },
+  {
+    "ID": "30620",
+    "Name": "Leobersdorf"
+  },
+  {
+    "ID": "30621",
+    "Name": "Mitterndorf an der Fischa"
+  },
+  {
+    "ID": "30623",
+    "Name": "Oberwaltersdorf"
+  },
+  {
+    "ID": "30625",
+    "Name": "Pfaffst\u00E4tten"
+  },
+  {
+    "ID": "30626",
+    "Name": "Pottendorf"
+  },
+  {
+    "ID": "30627",
+    "Name": "Pottenstein"
+  },
+  {
+    "ID": "30629",
+    "Name": "Reisenberg"
+  },
+  {
+    "ID": "30631",
+    "Name": "Sch\u00F6nau an der Triesting"
+  },
+  {
+    "ID": "30633",
+    "Name": "Seibersdorf"
+  },
+  {
+    "ID": "30635",
+    "Name": "Soo\u00DF"
+  },
+  {
+    "ID": "30636",
+    "Name": "Tattendorf"
+  },
+  {
+    "ID": "30637",
+    "Name": "Teesdorf"
+  },
+  {
+    "ID": "30639",
+    "Name": "Traiskirchen"
+  },
+  {
+    "ID": "30641",
+    "Name": "Trumau"
+  },
+  {
+    "ID": "30645",
+    "Name": "Weissenbach an der Triesting"
+  },
+  {
+    "ID": "30646",
+    "Name": "Blumau-Neuri\u00DFhof"
+  },
+  {
+    "ID": "30699",
+    "Name": "Wahlkarten im Bezirk Baden"
+  },
+  {
+    "ID": "30700",
+    "Name": "Bezirk Bruck"
+  },
+  {
+    "ID": "30701",
+    "Name": "Au am Leithaberge"
+  },
+  {
+    "ID": "30702",
+    "Name": "Bad Deutsch-Altenburg"
+  },
+  {
+    "ID": "30703",
+    "Name": "Berg"
+  },
+  {
+    "ID": "30704",
+    "Name": "Bruck an der Leitha"
+  },
+  {
+    "ID": "30706",
+    "Name": "Enzersdorf an der Fischa"
+  },
+  {
+    "ID": "30708",
+    "Name": "G\u00F6ttlesbrunn-Arbesthal"
+  },
+  {
+    "ID": "30709",
+    "Name": "G\u00F6tzendorf an der Leitha"
+  },
+  {
+    "ID": "30710",
+    "Name": "Hainburg a.d. Donau"
+  },
+  {
+    "ID": "30711",
+    "Name": "Haslau-Maria Ellend"
+  },
+  {
+    "ID": "30712",
+    "Name": "H\u00F6flein"
+  },
+  {
+    "ID": "30713",
+    "Name": "Hof am Leithaberge"
+  },
+  {
+    "ID": "30715",
+    "Name": "Hundsheim"
+  },
+  {
+    "ID": "30716",
+    "Name": "Mannersdorf am Leithagebirge"
+  },
+  {
+    "ID": "30718",
+    "Name": "Petronell-Carnuntum"
+  },
+  {
+    "ID": "30719",
+    "Name": "Prellenkirchen"
+  },
+  {
+    "ID": "30721",
+    "Name": "Rohrau"
+  },
+  {
+    "ID": "30722",
+    "Name": "Scharndorf"
+  },
+  {
+    "ID": "30724",
+    "Name": "Sommerein"
+  },
+  {
+    "ID": "30726",
+    "Name": "Trautmannsdorf an der Leitha"
+  },
+  {
+    "ID": "30728",
+    "Name": "Wolfsthal"
+  },
+  {
+    "ID": "30729",
+    "Name": "Ebergassing"
+  },
+  {
+    "ID": "30730",
+    "Name": "Fischamend"
+  },
+  {
+    "ID": "30731",
+    "Name": "Gramatneusiedl"
+  },
+  {
+    "ID": "30732",
+    "Name": "Himberg"
+  },
+  {
+    "ID": "30733",
+    "Name": "Klein-Neusiedl"
+  },
+  {
+    "ID": "30734",
+    "Name": "Lanzendorf"
+  },
+  {
+    "ID": "30735",
+    "Name": "Leopoldsdorf"
+  },
+  {
+    "ID": "30736",
+    "Name": "Maria-Lanzendorf"
+  },
+  {
+    "ID": "30737",
+    "Name": "Moosbrunn"
+  },
+  {
+    "ID": "30738",
+    "Name": "Rauchenwarth"
+  },
+  {
+    "ID": "30739",
+    "Name": "Schwadorf"
+  },
+  {
+    "ID": "30740",
+    "Name": "Schwechat"
+  },
+  {
+    "ID": "30741",
+    "Name": "Zw\u00F6lfaxing"
+  },
+  {
+    "ID": "30799",
+    "Name": "Wahlkarten im Bezirk Bruck an der Leith"
+  },
+  {
+    "ID": "30800",
+    "Name": "Bezirk G\u00E4nserndorf"
+  },
+  {
+    "ID": "30801",
+    "Name": "Aderklaa"
+  },
+  {
+    "ID": "30802",
+    "Name": "Andlersdorf"
+  },
+  {
+    "ID": "30803",
+    "Name": "Angern an der March"
+  },
+  {
+    "ID": "30804",
+    "Name": "Auersthal"
+  },
+  {
+    "ID": "30805",
+    "Name": "Bad Pirawarth"
+  },
+  {
+    "ID": "30808",
+    "Name": "Deutsch-Wagram"
+  },
+  {
+    "ID": "30810",
+    "Name": "Dr\u00F6sing"
+  },
+  {
+    "ID": "30811",
+    "Name": "D\u00FCrnkrut"
+  },
+  {
+    "ID": "30812",
+    "Name": "Ebenthal"
+  },
+  {
+    "ID": "30813",
+    "Name": "Eckartsau"
+  },
+  {
+    "ID": "30814",
+    "Name": "Engelhartstetten"
+  },
+  {
+    "ID": "30817",
+    "Name": "G\u00E4nserndorf"
+  },
+  {
+    "ID": "30819",
+    "Name": "Glinzendorf"
+  },
+  {
+    "ID": "30821",
+    "Name": "Gro\u00DF-Enzersdorf"
+  },
+  {
+    "ID": "30822",
+    "Name": "Gro\u00DFhofen"
+  },
+  {
+    "ID": "30824",
+    "Name": "Gro\u00DF-Schweinbarth"
+  },
+  {
+    "ID": "30825",
+    "Name": "Haringsee"
+  },
+  {
+    "ID": "30826",
+    "Name": "Hauskirchen"
+  },
+  {
+    "ID": "30827",
+    "Name": "Hohenau an der March"
+  },
+  {
+    "ID": "30828",
+    "Name": "Hohenruppersdorf"
+  },
+  {
+    "ID": "30829",
+    "Name": "Jedenspeigen"
+  },
+  {
+    "ID": "30830",
+    "Name": "Lassee"
+  },
+  {
+    "ID": "30831",
+    "Name": "Leopoldsdorf im Marchfelde"
+  },
+  {
+    "ID": "30834",
+    "Name": "Mannsdorf an der Donau"
+  },
+  {
+    "ID": "30835",
+    "Name": "Marchegg"
+  },
+  {
+    "ID": "30836",
+    "Name": "Markgrafneusiedl"
+  },
+  {
+    "ID": "30838",
+    "Name": "Matzen-Raggendorf"
+  },
+  {
+    "ID": "30841",
+    "Name": "Neusiedl an der Zaya"
+  },
+  {
+    "ID": "30842",
+    "Name": "Obersiebenbrunn"
+  },
+  {
+    "ID": "30844",
+    "Name": "Orth an der Donau"
+  },
+  {
+    "ID": "30845",
+    "Name": "Palterndorf-Dobermannsdorf"
+  },
+  {
+    "ID": "30846",
+    "Name": "Parbasdorf"
+  },
+  {
+    "ID": "30848",
+    "Name": "Prottes"
+  },
+  {
+    "ID": "30849",
+    "Name": "Raasdorf"
+  },
+  {
+    "ID": "30850",
+    "Name": "Ringelsdorf-Niederabsdorf"
+  },
+  {
+    "ID": "30852",
+    "Name": "Sch\u00F6nkirchen-Reyersdorf"
+  },
+  {
+    "ID": "30854",
+    "Name": "Spannberg"
+  },
+  {
+    "ID": "30856",
+    "Name": "Strasshof an der Nordbahn"
+  },
+  {
+    "ID": "30857",
+    "Name": "Sulz im Weinviertel"
+  },
+  {
+    "ID": "30858",
+    "Name": "Untersiebenbrunn"
+  },
+  {
+    "ID": "30859",
+    "Name": "Velm-G\u00F6tzendorf"
+  },
+  {
+    "ID": "30860",
+    "Name": "Weikendorf"
+  },
+  {
+    "ID": "30863",
+    "Name": "Zistersdorf"
+  },
+  {
+    "ID": "30865",
+    "Name": "Weiden an der March"
+  },
+  {
+    "ID": "30899",
+    "Name": "Wahlkarten im Bezirk G\u00E4nserndorf"
+  },
+  {
+    "ID": "30900",
+    "Name": "Bezirk Gm\u00FCnd"
+  },
+  {
+    "ID": "30902",
+    "Name": "Amaliendorf-Aalfang"
+  },
+  {
+    "ID": "30903",
+    "Name": "Brand-Nagelberg"
+  },
+  {
+    "ID": "30904",
+    "Name": "Eggern"
+  },
+  {
+    "ID": "30906",
+    "Name": "Eisgarn"
+  },
+  {
+    "ID": "30908",
+    "Name": "Gm\u00FCnd"
+  },
+  {
+    "ID": "30909",
+    "Name": "Gro\u00DFdietmanns"
+  },
+  {
+    "ID": "30910",
+    "Name": "Bad Gro\u00DFpertholz"
+  },
+  {
+    "ID": "30912",
+    "Name": "Gro\u00DFsch\u00F6nau"
+  },
+  {
+    "ID": "30913",
+    "Name": "Moorbad Harbach"
+  },
+  {
+    "ID": "30915",
+    "Name": "Haugschlag"
+  },
+  {
+    "ID": "30916",
+    "Name": "Heidenreichstein"
+  },
+  {
+    "ID": "30917",
+    "Name": "Hirschbach"
+  },
+  {
+    "ID": "30920",
+    "Name": "Hoheneich"
+  },
+  {
+    "ID": "30921",
+    "Name": "Kirchberg am Walde"
+  },
+  {
+    "ID": "30925",
+    "Name": "Litschau"
+  },
+  {
+    "ID": "30929",
+    "Name": "Reingers"
+  },
+  {
+    "ID": "30932",
+    "Name": "St. Martin"
+  },
+  {
+    "ID": "30935",
+    "Name": "Schrems"
+  },
+  {
+    "ID": "30939",
+    "Name": "Unserfrau-Altweitra"
+  },
+  {
+    "ID": "30940",
+    "Name": "Waldenstein"
+  },
+  {
+    "ID": "30942",
+    "Name": "Weitra"
+  },
+  {
+    "ID": "30999",
+    "Name": "Wahlkarten im Bezirk Gm\u00FCnd"
+  },
+  {
+    "ID": "31000",
+    "Name": "Bezirk Hollabrunn"
+  },
+  {
+    "ID": "31001",
+    "Name": "Alberndorf im Pulkautal"
+  },
+  {
+    "ID": "31008",
+    "Name": "G\u00F6llersdorf"
+  },
+  {
+    "ID": "31009",
+    "Name": "Grabern"
+  },
+  {
+    "ID": "31014",
+    "Name": "Guntersdorf"
+  },
+  {
+    "ID": "31015",
+    "Name": "Hadres"
+  },
+  {
+    "ID": "31016",
+    "Name": "Hardegg"
+  },
+  {
+    "ID": "31018",
+    "Name": "Haugsdorf"
+  },
+  {
+    "ID": "31019",
+    "Name": "Heldenberg"
+  },
+  {
+    "ID": "31021",
+    "Name": "Hohenwarth-M\u00FChlbach a.M."
+  },
+  {
+    "ID": "31022",
+    "Name": "Hollabrunn"
+  },
+  {
+    "ID": "31025",
+    "Name": "Mailberg"
+  },
+  {
+    "ID": "31026",
+    "Name": "Maissau"
+  },
+  {
+    "ID": "31028",
+    "Name": "Nappersdorf-Kammersdorf"
+  },
+  {
+    "ID": "31033",
+    "Name": "Pernersdorf"
+  },
+  {
+    "ID": "31035",
+    "Name": "Pulkau"
+  },
+  {
+    "ID": "31036",
+    "Name": "Ravelsbach"
+  },
+  {
+    "ID": "31037",
+    "Name": "Retz"
+  },
+  {
+    "ID": "31038",
+    "Name": "Retzbach"
+  },
+  {
+    "ID": "31041",
+    "Name": "Schrattenthal"
+  },
+  {
+    "ID": "31042",
+    "Name": "Seefeld-Kadolz"
+  },
+  {
+    "ID": "31043",
+    "Name": "Sitzendorf an der Schmida"
+  },
+  {
+    "ID": "31051",
+    "Name": "Wullersdorf"
+  },
+  {
+    "ID": "31052",
+    "Name": "Zellerndorf"
+  },
+  {
+    "ID": "31053",
+    "Name": "Ziersdorf"
+  },
+  {
+    "ID": "31099",
+    "Name": "Wahlkarten im Bezirk Hollabrunn"
+  },
+  {
+    "ID": "31100",
+    "Name": "Bezirk Horn"
+  },
+  {
+    "ID": "31101",
+    "Name": "Altenburg"
+  },
+  {
+    "ID": "31102",
+    "Name": "Brunn an der Wild"
+  },
+  {
+    "ID": "31103",
+    "Name": "Burgschleinitz-K\u00FChnring"
+  },
+  {
+    "ID": "31104",
+    "Name": "Drosendorf-Zissersdorf"
+  },
+  {
+    "ID": "31105",
+    "Name": "Eggenburg"
+  },
+  {
+    "ID": "31106",
+    "Name": "Gars am Kamp"
+  },
+  {
+    "ID": "31107",
+    "Name": "Geras"
+  },
+  {
+    "ID": "31109",
+    "Name": "Horn"
+  },
+  {
+    "ID": "31110",
+    "Name": "Irnfritz-Messern"
+  },
+  {
+    "ID": "31111",
+    "Name": "Japons"
+  },
+  {
+    "ID": "31113",
+    "Name": "Langau"
+  },
+  {
+    "ID": "31114",
+    "Name": "Meiseldorf"
+  },
+  {
+    "ID": "31117",
+    "Name": "Pernegg"
+  },
+  {
+    "ID": "31119",
+    "Name": "R\u00F6hrenbach"
+  },
+  {
+    "ID": "31120",
+    "Name": "R\u00F6schitz"
+  },
+  {
+    "ID": "31121",
+    "Name": "Rosenburg-Mold"
+  },
+  {
+    "ID": "31123",
+    "Name": "St. Bernhard-Frauenhofen"
+  },
+  {
+    "ID": "31124",
+    "Name": "Sigmundsherberg"
+  },
+  {
+    "ID": "31129",
+    "Name": "Weitersfeld"
+  },
+  {
+    "ID": "31130",
+    "Name": "Straning-Grafenberg"
+  },
+  {
+    "ID": "31199",
+    "Name": "Wahlkarten im Bezirk Horn"
+  },
+  {
+    "ID": "31200",
+    "Name": "Bezirk Korneuburg"
+  },
+  {
+    "ID": "31201",
+    "Name": "Bisamberg"
+  },
+  {
+    "ID": "31202",
+    "Name": "Enzersfeld im Weinviertel"
+  },
+  {
+    "ID": "31203",
+    "Name": "Ernstbrunn"
+  },
+  {
+    "ID": "31204",
+    "Name": "Gro\u00DFmugl"
+  },
+  {
+    "ID": "31205",
+    "Name": "Gro\u00DFru\u00DFbach"
+  },
+  {
+    "ID": "31206",
+    "Name": "Hagenbrunn"
+  },
+  {
+    "ID": "31207",
+    "Name": "Harmannsdorf"
+  },
+  {
+    "ID": "31208",
+    "Name": "Hausleiten"
+  },
+  {
+    "ID": "31213",
+    "Name": "Korneuburg"
+  },
+  {
+    "ID": "31214",
+    "Name": "Langenzersdorf"
+  },
+  {
+    "ID": "31215",
+    "Name": "Leitzersdorf"
+  },
+  {
+    "ID": "31216",
+    "Name": "Leobendorf"
+  },
+  {
+    "ID": "31224",
+    "Name": "Ru\u00DFbach"
+  },
+  {
+    "ID": "31226",
+    "Name": "Sierndorf"
+  },
+  {
+    "ID": "31227",
+    "Name": "Spillern"
+  },
+  {
+    "ID": "31228",
+    "Name": "Stetteldorf am Wagram"
+  },
+  {
+    "ID": "31229",
+    "Name": "Stetten"
+  },
+  {
+    "ID": "31230",
+    "Name": "Stockerau"
+  },
+  {
+    "ID": "31234",
+    "Name": "Niederhollabrunn"
+  },
+  {
+    "ID": "31235",
+    "Name": "Gerasdorf bei Wien"
+  },
+  {
+    "ID": "31299",
+    "Name": "Wahlkarten im Bezirk Korneuburg"
+  },
+  {
+    "ID": "31300",
+    "Name": "Bezirk Krems-Land"
+  },
+  {
+    "ID": "31301",
+    "Name": "Aggsbach"
+  },
+  {
+    "ID": "31302",
+    "Name": "Albrechtsberg an der Gro\u00DFen Krems"
+  },
+  {
+    "ID": "31303",
+    "Name": "Bergern im Dunkelsteinerwald"
+  },
+  {
+    "ID": "31304",
+    "Name": "D\u00FCrnstein"
+  },
+  {
+    "ID": "31308",
+    "Name": "Grafenegg"
+  },
+  {
+    "ID": "31309",
+    "Name": "Furth bei G\u00F6ttweig"
+  },
+  {
+    "ID": "31310",
+    "Name": "Gedersdorf"
+  },
+  {
+    "ID": "31311",
+    "Name": "Gf\u00F6hl"
+  },
+  {
+    "ID": "31315",
+    "Name": "Hadersdorf-Kammern"
+  },
+  {
+    "ID": "31319",
+    "Name": "Jaidhof"
+  },
+  {
+    "ID": "31321",
+    "Name": "Krumau am Kamp"
+  },
+  {
+    "ID": "31322",
+    "Name": "Langenlois"
+  },
+  {
+    "ID": "31323",
+    "Name": "Lengenfeld"
+  },
+  {
+    "ID": "31324",
+    "Name": "Lichtenau im Waldviertel"
+  },
+  {
+    "ID": "31326",
+    "Name": "Maria Laach am Jauerling"
+  },
+  {
+    "ID": "31327",
+    "Name": "Mautern an der Donau"
+  },
+  {
+    "ID": "31330",
+    "Name": "M\u00FChldorf"
+  },
+  {
+    "ID": "31333",
+    "Name": "Paudorf"
+  },
+  {
+    "ID": "31336",
+    "Name": "Rastenfeld"
+  },
+  {
+    "ID": "31337",
+    "Name": "Rohrendorf bei Krems"
+  },
+  {
+    "ID": "31338",
+    "Name": "Rossatz-Arnsdorf"
+  },
+  {
+    "ID": "31340",
+    "Name": "St. Leonhard am Hornerwald"
+  },
+  {
+    "ID": "31343",
+    "Name": "Senftenberg"
+  },
+  {
+    "ID": "31344",
+    "Name": "Spitz"
+  },
+  {
+    "ID": "31346",
+    "Name": "Stra\u00DF im Stra\u00DFertale"
+  },
+  {
+    "ID": "31347",
+    "Name": "Stratzing"
+  },
+  {
+    "ID": "31350",
+    "Name": "Weinzierl am Walde"
+  },
+  {
+    "ID": "31351",
+    "Name": "Wei\u00DFenkirchen in der Wachau"
+  },
+  {
+    "ID": "31355",
+    "Name": "Sch\u00F6nberg am Kamp"
+  },
+  {
+    "ID": "31356",
+    "Name": "Dro\u00DF"
+  },
+  {
+    "ID": "31399",
+    "Name": "Wahlkarten im Bezirk Krems-Land"
+  },
+  {
+    "ID": "31400",
+    "Name": "Bezirk Lilienfeld"
+  },
+  {
+    "ID": "31401",
+    "Name": "Annaberg"
+  },
+  {
+    "ID": "31402",
+    "Name": "Eschenau"
+  },
+  {
+    "ID": "31403",
+    "Name": "Hainfeld"
+  },
+  {
+    "ID": "31404",
+    "Name": "Hohenberg"
+  },
+  {
+    "ID": "31405",
+    "Name": "Kaumberg"
+  },
+  {
+    "ID": "31406",
+    "Name": "Kleinzell"
+  },
+  {
+    "ID": "31407",
+    "Name": "Lilienfeld"
+  },
+  {
+    "ID": "31408",
+    "Name": "Mitterbach am Erlaufsee"
+  },
+  {
+    "ID": "31409",
+    "Name": "Ramsau"
+  },
+  {
+    "ID": "31410",
+    "Name": "Rohrbach an der G\u00F6lsen"
+  },
+  {
+    "ID": "31411",
+    "Name": "St. Aegyd am Neuwalde"
+  },
+  {
+    "ID": "31412",
+    "Name": "St. Veit an der G\u00F6lsen"
+  },
+  {
+    "ID": "31413",
+    "Name": "Traisen"
+  },
+  {
+    "ID": "31414",
+    "Name": "T\u00FCrnitz"
+  },
+  {
+    "ID": "31499",
+    "Name": "Wahlkarten im Bezirk Lilienfeld"
+  },
+  {
+    "ID": "31500",
+    "Name": "Bezirk Melk"
+  },
+  {
+    "ID": "31502",
+    "Name": "Artstetten-P\u00F6bring"
+  },
+  {
+    "ID": "31503",
+    "Name": "Bergland"
+  },
+  {
+    "ID": "31504",
+    "Name": "Bischofstetten"
+  },
+  {
+    "ID": "31505",
+    "Name": "Blindenmarkt"
+  },
+  {
+    "ID": "31506",
+    "Name": "Dorfstetten"
+  },
+  {
+    "ID": "31507",
+    "Name": "Dunkelsteinerwald"
+  },
+  {
+    "ID": "31508",
+    "Name": "Erlauf"
+  },
+  {
+    "ID": "31509",
+    "Name": "Golling an der Erlauf"
+  },
+  {
+    "ID": "31511",
+    "Name": "Hofamt Priel"
+  },
+  {
+    "ID": "31513",
+    "Name": "H\u00FCrm"
+  },
+  {
+    "ID": "31514",
+    "Name": "Kilb"
+  },
+  {
+    "ID": "31515",
+    "Name": "Kirnberg an der Mank"
+  },
+  {
+    "ID": "31516",
+    "Name": "Klein-P\u00F6chlarn"
+  },
+  {
+    "ID": "31517",
+    "Name": "Krummnu\u00DFbaum"
+  },
+  {
+    "ID": "31519",
+    "Name": "Leiben"
+  },
+  {
+    "ID": "31520",
+    "Name": "Loosdorf"
+  },
+  {
+    "ID": "31521",
+    "Name": "Mank"
+  },
+  {
+    "ID": "31522",
+    "Name": "Marbach an der Donau"
+  },
+  {
+    "ID": "31523",
+    "Name": "Maria Taferl"
+  },
+  {
+    "ID": "31524",
+    "Name": "Melk"
+  },
+  {
+    "ID": "31525",
+    "Name": "M\u00FCnichreith-Laimbach"
+  },
+  {
+    "ID": "31527",
+    "Name": "Neumarkt an der Ybbs"
+  },
+  {
+    "ID": "31528",
+    "Name": "N\u00F6chling"
+  },
+  {
+    "ID": "31530",
+    "Name": "Persenbeug-Gottsdorf"
+  },
+  {
+    "ID": "31531",
+    "Name": "Petzenkirchen"
+  },
+  {
+    "ID": "31533",
+    "Name": "P\u00F6chlarn"
+  },
+  {
+    "ID": "31534",
+    "Name": "P\u00F6ggstall"
+  },
+  {
+    "ID": "31535",
+    "Name": "Raxendorf"
+  },
+  {
+    "ID": "31537",
+    "Name": "Ruprechtshofen"
+  },
+  {
+    "ID": "31539",
+    "Name": "St. Leonhard am Forst"
+  },
+  {
+    "ID": "31540",
+    "Name": "St. Martin-Karlsbach"
+  },
+  {
+    "ID": "31541",
+    "Name": "St. Oswald"
+  },
+  {
+    "ID": "31542",
+    "Name": "Sch\u00F6nb\u00FChel-Aggsbach"
+  },
+  {
+    "ID": "31543",
+    "Name": "Schollach"
+  },
+  {
+    "ID": "31546",
+    "Name": "Weiten"
+  },
+  {
+    "ID": "31549",
+    "Name": "Ybbs an der Donau"
+  },
+  {
+    "ID": "31550",
+    "Name": "Zelking-Matzleinsdorf"
+  },
+  {
+    "ID": "31551",
+    "Name": "Texingtal"
+  },
+  {
+    "ID": "31552",
+    "Name": "Yspertal"
+  },
+  {
+    "ID": "31553",
+    "Name": "Emmersdorf an der Donau"
+  },
+  {
+    "ID": "31599",
+    "Name": "Wahlkarten im Bezirk Melk"
+  },
+  {
+    "ID": "31600",
+    "Name": "Bezirk Mistelbach"
+  },
+  {
+    "ID": "31601",
+    "Name": "Altlichtenwarth"
+  },
+  {
+    "ID": "31603",
+    "Name": "Asparn an der Zaya"
+  },
+  {
+    "ID": "31604",
+    "Name": "Bernhardsthal"
+  },
+  {
+    "ID": "31605",
+    "Name": "Bockflie\u00DF"
+  },
+  {
+    "ID": "31606",
+    "Name": "Drasenhofen"
+  },
+  {
+    "ID": "31608",
+    "Name": "Falkenstein"
+  },
+  {
+    "ID": "31609",
+    "Name": "Fallbach"
+  },
+  {
+    "ID": "31611",
+    "Name": "Gaubitsch"
+  },
+  {
+    "ID": "31612",
+    "Name": "Gaweinstal"
+  },
+  {
+    "ID": "31613",
+    "Name": "Gnadendorf"
+  },
+  {
+    "ID": "31614",
+    "Name": "Gro\u00DFebersdorf"
+  },
+  {
+    "ID": "31615",
+    "Name": "Gro\u00DFengersdorf"
+  },
+  {
+    "ID": "31616",
+    "Name": "Gro\u00DFharras"
+  },
+  {
+    "ID": "31617",
+    "Name": "Gro\u00DFkrut"
+  },
+  {
+    "ID": "31620",
+    "Name": "Hausbrunn"
+  },
+  {
+    "ID": "31621",
+    "Name": "Herrnbaumgarten"
+  },
+  {
+    "ID": "31622",
+    "Name": "Hochleithen"
+  },
+  {
+    "ID": "31627",
+    "Name": "Kreuttal"
+  },
+  {
+    "ID": "31628",
+    "Name": "Kreuzstetten"
+  },
+  {
+    "ID": "31629",
+    "Name": "Laa an der Thaya"
+  },
+  {
+    "ID": "31630",
+    "Name": "Ladendorf"
+  },
+  {
+    "ID": "31633",
+    "Name": "Mistelbach"
+  },
+  {
+    "ID": "31634",
+    "Name": "Neudorf im Weinviertel"
+  },
+  {
+    "ID": "31636",
+    "Name": "Niederleis"
+  },
+  {
+    "ID": "31642",
+    "Name": "Pillichsdorf"
+  },
+  {
+    "ID": "31644",
+    "Name": "Poysdorf"
+  },
+  {
+    "ID": "31645",
+    "Name": "Rabensburg"
+  },
+  {
+    "ID": "31646",
+    "Name": "Schrattenberg"
+  },
+  {
+    "ID": "31649",
+    "Name": "Staatz"
+  },
+  {
+    "ID": "31650",
+    "Name": "Stronsdorf"
+  },
+  {
+    "ID": "31651",
+    "Name": "Ulrichskirchen-Schleinbach"
+  },
+  {
+    "ID": "31652",
+    "Name": "Unterstinkenbrunn"
+  },
+  {
+    "ID": "31653",
+    "Name": "Wildend\u00FCrnbach"
+  },
+  {
+    "ID": "31654",
+    "Name": "Wilfersdorf"
+  },
+  {
+    "ID": "31655",
+    "Name": "Wolkersdorf im Weinviertel"
+  },
+  {
+    "ID": "31658",
+    "Name": "Ottenthal"
+  },
+  {
+    "ID": "31699",
+    "Name": "Wahlkarten im Bezirk Mistelbach"
+  },
+  {
+    "ID": "31700",
+    "Name": "Bezirk M\u00F6dling"
+  },
+  {
+    "ID": "31701",
+    "Name": "Achau"
+  },
+  {
+    "ID": "31702",
+    "Name": "Biedermannsdorf"
+  },
+  {
+    "ID": "31703",
+    "Name": "Breitenfurt bei Wien"
+  },
+  {
+    "ID": "31704",
+    "Name": "Brunn am Gebirge"
+  },
+  {
+    "ID": "31706",
+    "Name": "Gaaden"
+  },
+  {
+    "ID": "31707",
+    "Name": "Gie\u00DFh\u00FCbl"
+  },
+  {
+    "ID": "31709",
+    "Name": "Gumpoldskirchen"
+  },
+  {
+    "ID": "31710",
+    "Name": "Guntramsdorf"
+  },
+  {
+    "ID": "31711",
+    "Name": "Hennersdorf"
+  },
+  {
+    "ID": "31712",
+    "Name": "Hinterbr\u00FChl"
+  },
+  {
+    "ID": "31713",
+    "Name": "Kaltenleutgeben"
+  },
+  {
+    "ID": "31714",
+    "Name": "Laab im Walde"
+  },
+  {
+    "ID": "31715",
+    "Name": "Laxenburg"
+  },
+  {
+    "ID": "31716",
+    "Name": "Maria Enzersdorf"
+  },
+  {
+    "ID": "31717",
+    "Name": "M\u00F6dling"
+  },
+  {
+    "ID": "31718",
+    "Name": "M\u00FCnchendorf"
+  },
+  {
+    "ID": "31719",
+    "Name": "Perchtoldsdorf"
+  },
+  {
+    "ID": "31723",
+    "Name": "V\u00F6sendorf"
+  },
+  {
+    "ID": "31725",
+    "Name": "Wiener Neudorf"
+  },
+  {
+    "ID": "31726",
+    "Name": "Wienerwald"
+  },
+  {
+    "ID": "31799",
+    "Name": "Wahlkarten im Bezirk M\u00F6dling"
+  },
+  {
+    "ID": "31800",
+    "Name": "Bezirk Neunkirchen"
+  },
+  {
+    "ID": "31801",
+    "Name": "Altendorf"
+  },
+  {
+    "ID": "31802",
+    "Name": "Aspang-Markt"
+  },
+  {
+    "ID": "31803",
+    "Name": "Aspangberg-St. Peter"
+  },
+  {
+    "ID": "31804",
+    "Name": "Breitenau"
+  },
+  {
+    "ID": "31805",
+    "Name": "Breitenstein"
+  },
+  {
+    "ID": "31806",
+    "Name": "Buchbach"
+  },
+  {
+    "ID": "31807",
+    "Name": "Edlitz"
+  },
+  {
+    "ID": "31808",
+    "Name": "Enzenreith"
+  },
+  {
+    "ID": "31809",
+    "Name": "Feistritz am Wechsel"
+  },
+  {
+    "ID": "31810",
+    "Name": "Gloggnitz"
+  },
+  {
+    "ID": "31811",
+    "Name": "Grafenbach-St. Valentin"
+  },
+  {
+    "ID": "31812",
+    "Name": "Grimmenstein"
+  },
+  {
+    "ID": "31813",
+    "Name": "Gr\u00FCnbach am Schneeberg"
+  },
+  {
+    "ID": "31814",
+    "Name": "Kirchberg am Wechsel"
+  },
+  {
+    "ID": "31815",
+    "Name": "M\u00F6nichkirchen"
+  },
+  {
+    "ID": "31817",
+    "Name": "Natschbach-Loipersbach"
+  },
+  {
+    "ID": "31818",
+    "Name": "Neunkirchen"
+  },
+  {
+    "ID": "31820",
+    "Name": "Otterthal"
+  },
+  {
+    "ID": "31821",
+    "Name": "Payerbach"
+  },
+  {
+    "ID": "31823",
+    "Name": "Pitten"
+  },
+  {
+    "ID": "31825",
+    "Name": "Prigglitz"
+  },
+  {
+    "ID": "31826",
+    "Name": "Puchberg am Schneeberg"
+  },
+  {
+    "ID": "31827",
+    "Name": "Raach am Hochgebirge"
+  },
+  {
+    "ID": "31829",
+    "Name": "Reichenau an der Rax"
+  },
+  {
+    "ID": "31830",
+    "Name": "St. Corona am Wechsel"
+  },
+  {
+    "ID": "31831",
+    "Name": "St. Egyden am Steinfeld"
+  },
+  {
+    "ID": "31832",
+    "Name": "Scheiblingkirchen-Thernberg"
+  },
+  {
+    "ID": "31833",
+    "Name": "Schottwien"
+  },
+  {
+    "ID": "31834",
+    "Name": "Schrattenbach"
+  },
+  {
+    "ID": "31835",
+    "Name": "Schwarzau am Steinfeld"
+  },
+  {
+    "ID": "31836",
+    "Name": "Schwarzau im Gebirge"
+  },
+  {
+    "ID": "31837",
+    "Name": "Seebenstein"
+  },
+  {
+    "ID": "31838",
+    "Name": "Semmering"
+  },
+  {
+    "ID": "31839",
+    "Name": "Ternitz"
+  },
+  {
+    "ID": "31840",
+    "Name": "Thomasberg"
+  },
+  {
+    "ID": "31841",
+    "Name": "Trattenbach"
+  },
+  {
+    "ID": "31842",
+    "Name": "B\u00FCrg-V\u00F6stenhof"
+  },
+  {
+    "ID": "31843",
+    "Name": "Warth"
+  },
+  {
+    "ID": "31844",
+    "Name": "Wartmannstetten"
+  },
+  {
+    "ID": "31845",
+    "Name": "Willendorf"
+  },
+  {
+    "ID": "31846",
+    "Name": "Wimpassing im Schwarzatale"
+  },
+  {
+    "ID": "31847",
+    "Name": "W\u00FCrflach"
+  },
+  {
+    "ID": "31848",
+    "Name": "Z\u00F6bern"
+  },
+  {
+    "ID": "31849",
+    "Name": "H\u00F6flein an der Hohen Wand"
+  },
+  {
+    "ID": "31899",
+    "Name": "Wahlkarten im Bezirk Neunkirchen"
+  },
+  {
+    "ID": "31900",
+    "Name": "Bezirk St. P\u00F6lten-Land"
+  },
+  {
+    "ID": "31901",
+    "Name": "Altlengbach"
+  },
+  {
+    "ID": "31902",
+    "Name": "Asperhofen"
+  },
+  {
+    "ID": "31903",
+    "Name": "B\u00F6heimkirchen"
+  },
+  {
+    "ID": "31904",
+    "Name": "Brand-Laaben"
+  },
+  {
+    "ID": "31905",
+    "Name": "Eichgraben"
+  },
+  {
+    "ID": "31906",
+    "Name": "Frankenfels"
+  },
+  {
+    "ID": "31907",
+    "Name": "Gerersdorf"
+  },
+  {
+    "ID": "31909",
+    "Name": "Hofstetten-Gr\u00FCnau"
+  },
+  {
+    "ID": "31910",
+    "Name": "Hafnerbach"
+  },
+  {
+    "ID": "31911",
+    "Name": "Haunoldstein"
+  },
+  {
+    "ID": "31912",
+    "Name": "Herzogenburg"
+  },
+  {
+    "ID": "31913",
+    "Name": "Inzersdorf-Getzersdorf"
+  },
+  {
+    "ID": "31915",
+    "Name": "Kapelln"
+  },
+  {
+    "ID": "31916",
+    "Name": "Karlstetten"
+  },
+  {
+    "ID": "31917",
+    "Name": "Kasten bei B\u00F6heimkirchen"
+  },
+  {
+    "ID": "31918",
+    "Name": "Kirchberg an der Pielach"
+  },
+  {
+    "ID": "31919",
+    "Name": "Kirchstetten"
+  },
+  {
+    "ID": "31920",
+    "Name": "Loich"
+  },
+  {
+    "ID": "31921",
+    "Name": "Maria-Anzbach"
+  },
+  {
+    "ID": "31922",
+    "Name": "Markersdorf-Haindorf"
+  },
+  {
+    "ID": "31923",
+    "Name": "Michelbach"
+  },
+  {
+    "ID": "31925",
+    "Name": "Neidling"
+  },
+  {
+    "ID": "31926",
+    "Name": "Neulengbach"
+  },
+  {
+    "ID": "31927",
+    "Name": "Neustift-Innermanzing"
+  },
+  {
+    "ID": "31928",
+    "Name": "Nu\u00DFdorf ob der Traisen"
+  },
+  {
+    "ID": "31929",
+    "Name": "Ober-Grafendorf"
+  },
+  {
+    "ID": "31930",
+    "Name": "Obritzberg-Rust"
+  },
+  {
+    "ID": "31932",
+    "Name": "Prinzersdorf"
+  },
+  {
+    "ID": "31934",
+    "Name": "Pyhra"
+  },
+  {
+    "ID": "31935",
+    "Name": "Rabenstein an der Pielach"
+  },
+  {
+    "ID": "31938",
+    "Name": "St. Margarethen an der Sierning"
+  },
+  {
+    "ID": "31939",
+    "Name": "Schwarzenbach an der Pielach"
+  },
+  {
+    "ID": "31940",
+    "Name": "Statzendorf"
+  },
+  {
+    "ID": "31941",
+    "Name": "St\u00F6ssing"
+  },
+  {
+    "ID": "31943",
+    "Name": "Traismauer"
+  },
+  {
+    "ID": "31945",
+    "Name": "Weinburg"
+  },
+  {
+    "ID": "31946",
+    "Name": "Perschling"
+  },
+  {
+    "ID": "31947",
+    "Name": "Wilhelmsburg"
+  },
+  {
+    "ID": "31948",
+    "Name": "W\u00F6lbling"
+  },
+  {
+    "ID": "31949",
+    "Name": "Gablitz"
+  },
+  {
+    "ID": "31950",
+    "Name": "Mauerbach"
+  },
+  {
+    "ID": "31951",
+    "Name": "Pressbaum"
+  },
+  {
+    "ID": "31952",
+    "Name": "Purkersdorf"
+  },
+  {
+    "ID": "31953",
+    "Name": "Tullnerbach"
+  },
+  {
+    "ID": "31954",
+    "Name": "Wolfsgraben"
+  },
+  {
+    "ID": "31999",
+    "Name": "Wahlkarten im Bezirk St. P\u00F6lten-Land"
+  },
+  {
+    "ID": "32000",
+    "Name": "Bezirk Scheibbs"
+  },
+  {
+    "ID": "32001",
+    "Name": "Gaming"
+  },
+  {
+    "ID": "32002",
+    "Name": "G\u00F6stling an der Ybbs"
+  },
+  {
+    "ID": "32003",
+    "Name": "Gresten"
+  },
+  {
+    "ID": "32004",
+    "Name": "Gresten-Land"
+  },
+  {
+    "ID": "32005",
+    "Name": "Lunz am See"
+  },
+  {
+    "ID": "32006",
+    "Name": "Oberndorf an der Melk"
+  },
+  {
+    "ID": "32007",
+    "Name": "Puchenstuben"
+  },
+  {
+    "ID": "32008",
+    "Name": "Purgstall an der Erlauf"
+  },
+  {
+    "ID": "32009",
+    "Name": "Randegg"
+  },
+  {
+    "ID": "32010",
+    "Name": "Reinsberg"
+  },
+  {
+    "ID": "32011",
+    "Name": "St. Anton an der Je\u00DFnitz"
+  },
+  {
+    "ID": "32012",
+    "Name": "St. Georgen an der Leys"
+  },
+  {
+    "ID": "32013",
+    "Name": "Scheibbs"
+  },
+  {
+    "ID": "32014",
+    "Name": "Steinakirchen am Forst"
+  },
+  {
+    "ID": "32015",
+    "Name": "Wang"
+  },
+  {
+    "ID": "32016",
+    "Name": "Wieselburg"
+  },
+  {
+    "ID": "32017",
+    "Name": "Wieselburg-Land"
+  },
+  {
+    "ID": "32018",
+    "Name": "Wolfpassing"
+  },
+  {
+    "ID": "32099",
+    "Name": "Wahlkarten im Bezirk Scheibbs"
+  },
+  {
+    "ID": "32100",
+    "Name": "Bezirk Tulln"
+  },
+  {
+    "ID": "32101",
+    "Name": "Absdorf"
+  },
+  {
+    "ID": "32104",
+    "Name": "Atzenbrugg"
+  },
+  {
+    "ID": "32106",
+    "Name": "Fels am Wagram"
+  },
+  {
+    "ID": "32107",
+    "Name": "Grafenw\u00F6rth"
+  },
+  {
+    "ID": "32109",
+    "Name": "Gro\u00DFriedenthal"
+  },
+  {
+    "ID": "32110",
+    "Name": "Gro\u00DFweikersdorf"
+  },
+  {
+    "ID": "32112",
+    "Name": "Judenau-Baumgarten"
+  },
+  {
+    "ID": "32114",
+    "Name": "Kirchberg am Wagram"
+  },
+  {
+    "ID": "32115",
+    "Name": "K\u00F6nigsbrunn am Wagram"
+  },
+  {
+    "ID": "32116",
+    "Name": "K\u00F6nigstetten"
+  },
+  {
+    "ID": "32119",
+    "Name": "Langenrohr"
+  },
+  {
+    "ID": "32120",
+    "Name": "Michelhausen"
+  },
+  {
+    "ID": "32131",
+    "Name": "Sieghartskirchen"
+  },
+  {
+    "ID": "32132",
+    "Name": "Sitzenberg-Reidling"
+  },
+  {
+    "ID": "32134",
+    "Name": "Tulbing"
+  },
+  {
+    "ID": "32135",
+    "Name": "Tulln an der Donau"
+  },
+  {
+    "ID": "32139",
+    "Name": "W\u00FCrmla"
+  },
+  {
+    "ID": "32140",
+    "Name": "Zeiselmauer-Wolfpassing"
+  },
+  {
+    "ID": "32141",
+    "Name": "Zwentendorf an der Donau"
+  },
+  {
+    "ID": "32142",
+    "Name": "St. Andr\u00E4-W\u00F6rdern"
+  },
+  {
+    "ID": "32143",
+    "Name": "Muckendorf-Wipfing"
+  },
+  {
+    "ID": "32144",
+    "Name": "Klosterneuburg"
+  },
+  {
+    "ID": "32199",
+    "Name": "Wahlkarten im Bezirk Tulln"
+  },
+  {
+    "ID": "32200",
+    "Name": "Bezirk Waidhofen a.d. Thaya"
+  },
+  {
+    "ID": "32202",
+    "Name": "Dietmanns"
+  },
+  {
+    "ID": "32203",
+    "Name": "Dobersberg"
+  },
+  {
+    "ID": "32206",
+    "Name": "Gastern"
+  },
+  {
+    "ID": "32207",
+    "Name": "Gro\u00DF-Siegharts"
+  },
+  {
+    "ID": "32209",
+    "Name": "Karlstein an der Thaya"
+  },
+  {
+    "ID": "32210",
+    "Name": "Kautzen"
+  },
+  {
+    "ID": "32212",
+    "Name": "Ludweis-Aigen"
+  },
+  {
+    "ID": "32214",
+    "Name": "Pfaffenschlag bei Waidhofen a.d.Thaya"
+  },
+  {
+    "ID": "32216",
+    "Name": "Raabs an der Thaya"
+  },
+  {
+    "ID": "32217",
+    "Name": "Thaya"
+  },
+  {
+    "ID": "32219",
+    "Name": "Vitis"
+  },
+  {
+    "ID": "32220",
+    "Name": "Waidhofen an der Thaya"
+  },
+  {
+    "ID": "32221",
+    "Name": "Waidhofen an der Thaya-Land"
+  },
+  {
+    "ID": "32222",
+    "Name": "Waldkirchen an der Thaya"
+  },
+  {
+    "ID": "32223",
+    "Name": "Windigsteig"
+  },
+  {
+    "ID": "32299",
+    "Name": "Wahlkarten im Bezirk Waidhofen a.d. Thaya"
+  },
+  {
+    "ID": "32300",
+    "Name": "Bezirk Wr. Neustadt-Land"
+  },
+  {
+    "ID": "32301",
+    "Name": "Bad Fischau-Brunn"
+  },
+  {
+    "ID": "32302",
+    "Name": "Bad Sch\u00F6nau"
+  },
+  {
+    "ID": "32304",
+    "Name": "Ebenfurth"
+  },
+  {
+    "ID": "32305",
+    "Name": "Eggendorf"
+  },
+  {
+    "ID": "32306",
+    "Name": "Bad Erlach"
+  },
+  {
+    "ID": "32307",
+    "Name": "Felixdorf"
+  },
+  {
+    "ID": "32308",
+    "Name": "Gutenstein"
+  },
+  {
+    "ID": "32309",
+    "Name": "Hochneukirchen-Gschaidt"
+  },
+  {
+    "ID": "32310",
+    "Name": "Hochwolkersdorf"
+  },
+  {
+    "ID": "32311",
+    "Name": "Hohe Wand"
+  },
+  {
+    "ID": "32312",
+    "Name": "Hollenthon"
+  },
+  {
+    "ID": "32313",
+    "Name": "Katzelsdorf"
+  },
+  {
+    "ID": "32314",
+    "Name": "Kirchschlag in der Buckligen Welt"
+  },
+  {
+    "ID": "32315",
+    "Name": "Krumbach"
+  },
+  {
+    "ID": "32316",
+    "Name": "Lanzenkirchen"
+  },
+  {
+    "ID": "32317",
+    "Name": "Lichtenegg"
+  },
+  {
+    "ID": "32318",
+    "Name": "Lichtenw\u00F6rth"
+  },
+  {
+    "ID": "32319",
+    "Name": "Markt Piesting"
+  },
+  {
+    "ID": "32320",
+    "Name": "Matzendorf-H\u00F6lles"
+  },
+  {
+    "ID": "32321",
+    "Name": "Miesenbach"
+  },
+  {
+    "ID": "32322",
+    "Name": "Muggendorf"
+  },
+  {
+    "ID": "32323",
+    "Name": "Pernitz"
+  },
+  {
+    "ID": "32324",
+    "Name": "Rohr im Gebirge"
+  },
+  {
+    "ID": "32325",
+    "Name": "Bromberg"
+  },
+  {
+    "ID": "32326",
+    "Name": "Schwarzenbach"
+  },
+  {
+    "ID": "32327",
+    "Name": "Sollenau"
+  },
+  {
+    "ID": "32330",
+    "Name": "Theresienfeld"
+  },
+  {
+    "ID": "32331",
+    "Name": "Waidmannsfeld"
+  },
+  {
+    "ID": "32332",
+    "Name": "Waldegg"
+  },
+  {
+    "ID": "32333",
+    "Name": "Walpersbach"
+  },
+  {
+    "ID": "32334",
+    "Name": "Weikersdorf am Steinfelde"
+  },
+  {
+    "ID": "32335",
+    "Name": "Wiesmath"
+  },
+  {
+    "ID": "32336",
+    "Name": "Winzendorf-Muthmannsdorf"
+  },
+  {
+    "ID": "32337",
+    "Name": "W\u00F6llersdorf-Steinabr\u00FCckl"
+  },
+  {
+    "ID": "32338",
+    "Name": "Zillingdorf"
+  },
+  {
+    "ID": "32399",
+    "Name": "Wahlkarten im Bezirk Wr. Neustadt-Land"
+  },
+  {
+    "ID": "32500",
+    "Name": "Bezirk Zwettl"
+  },
+  {
+    "ID": "32501",
+    "Name": "Allentsteig"
+  },
+  {
+    "ID": "32502",
+    "Name": "Arbesbach"
+  },
+  {
+    "ID": "32503",
+    "Name": "B\u00E4rnkopf"
+  },
+  {
+    "ID": "32504",
+    "Name": "Echsenbach"
+  },
+  {
+    "ID": "32505",
+    "Name": "G\u00F6pfritz an der Wild"
+  },
+  {
+    "ID": "32506",
+    "Name": "Grafenschlag"
+  },
+  {
+    "ID": "32508",
+    "Name": "Gro\u00DF Gerungs"
+  },
+  {
+    "ID": "32509",
+    "Name": "Gro\u00DFg\u00F6ttfritz"
+  },
+  {
+    "ID": "32511",
+    "Name": "Gutenbrunn"
+  },
+  {
+    "ID": "32514",
+    "Name": "Kirchschlag"
+  },
+  {
+    "ID": "32515",
+    "Name": "Kottes-Purk"
+  },
+  {
+    "ID": "32516",
+    "Name": "Langschlag"
+  },
+  {
+    "ID": "32517",
+    "Name": "Martinsberg"
+  },
+  {
+    "ID": "32518",
+    "Name": "Ottenschlag"
+  },
+  {
+    "ID": "32519",
+    "Name": "Altmelon"
+  },
+  {
+    "ID": "32520",
+    "Name": "P\u00F6lla"
+  },
+  {
+    "ID": "32521",
+    "Name": "Rappottenstein"
+  },
+  {
+    "ID": "32522",
+    "Name": "Sallingberg"
+  },
+  {
+    "ID": "32523",
+    "Name": "Sch\u00F6nbach"
+  },
+  {
+    "ID": "32524",
+    "Name": "Schwarzenau"
+  },
+  {
+    "ID": "32525",
+    "Name": "Schweiggers"
+  },
+  {
+    "ID": "32528",
+    "Name": "Bad Traunstein"
+  },
+  {
+    "ID": "32529",
+    "Name": "Waldhausen"
+  },
+  {
+    "ID": "32530",
+    "Name": "Zwettl-Nieder\u00F6sterreich"
+  },
+  {
+    "ID": "32599",
+    "Name": "Wahlkarten im Bezirk Zwettl"
+  },
+  {
+    "ID": "3A000",
+    "Name": "Wahlkreis Weinviertel"
+  },
+  {
+    "ID": "3A099",
+    "Name": "Wahlkarten im Wahlkreis Weinviertel"
+  },
+  {
+    "ID": "3B000",
+    "Name": "Wahlkreis Waldviertel"
+  },
+  {
+    "ID": "3B099",
+    "Name": "Wahlkarten im Wahlkreis Waldviertel"
+  },
+  {
+    "ID": "3C000",
+    "Name": "Wahlkreis Mostviertel"
+  },
+  {
+    "ID": "3C099",
+    "Name": "Wahlkarten im Wahlkreis Mostviertel"
+  },
+  {
+    "ID": "3D000",
+    "Name": "Wahlkreis Nieder\u00F6sterreich Mitte"
+  },
+  {
+    "ID": "3D099",
+    "Name": "Wahlkarten im Wahlkreis Nieder\u00F6sterreich Mitte"
+  },
+  {
+    "ID": "3E000",
+    "Name": "Wahlkreis Nieder\u00F6sterreich S\u00FCd"
+  },
+  {
+    "ID": "3E099",
+    "Name": "Wahlkarten im Wahlkreis Nieder\u00F6sterreich S\u00FCd"
+  },
+  {
+    "ID": "3F000",
+    "Name": "Wahlkreis Thermenregion"
+  },
+  {
+    "ID": "3F099",
+    "Name": "Wahlkarten im Wahlkreis Thermenregion"
+  },
+  {
+    "ID": "3G000",
+    "Name": "Wahlkreis Nieder\u00F6sterreich Ost"
+  },
+  {
+    "ID": "3G099",
+    "Name": "Wahlkarten im Wahlkreis Nieder\u00F6sterreich Ost"
+  }
+]

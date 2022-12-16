@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FHTW.SWEN1.FilePlay.NET", "FHTW.SWEN1.FilePlay.NET\FHTW.SWEN1.FilePlay.NET.csproj", "{51418CC0-CBFE-422C-9910-449E5F6D0636}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51418CC0-CBFE-422C-9910-449E5F6D0636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51418CC0-CBFE-422C-9910-449E5F6D0636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51418CC0-CBFE-422C-9910-449E5F6D0636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51418CC0-CBFE-422C-9910-449E5F6D0636}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEFA40B0-982C-4796-95FC-A3DADA5682E5}
+	EndGlobalSection
+EndGlobal
